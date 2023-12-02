@@ -13,7 +13,7 @@ import java.util.concurrent.ExecutionException;
 public class JSONProducer {
 
     private static final String BOOTSTRAP_SERVER = "localhost:9092";
-    private static final String CLIENT_ID = "stringProducer";
+    private static final String CLIENT_ID = "JSONProducer";
     private static KafkaProducer<String, String> producer;
 
     public static void main(String[] args) {
