@@ -1,3 +1,5 @@
+//6. Creare ConsumerAPI Kafka ptr Producer-ul de mai sus.
+
 package Tema6;
 
 import Tema4.Consumer;
