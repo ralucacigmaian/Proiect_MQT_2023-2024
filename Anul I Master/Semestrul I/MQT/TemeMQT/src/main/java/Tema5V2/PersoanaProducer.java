@@ -14,7 +14,7 @@ import java.util.concurrent.ExecutionException;
 public class PersoanaProducer {
 
     private static final String BOOTSTRAP_SERVER = "localhost:9092";
-    private static final String CLIENT_ID = "stringProducer";
+    private static final String CLIENT_ID = "persoanaProducer";
     private static KafkaProducer<String, Persoana> producer;
     public static void main (String[] args) {
 
