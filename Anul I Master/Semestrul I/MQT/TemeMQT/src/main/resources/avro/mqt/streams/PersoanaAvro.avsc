@@ -1,0 +1,23 @@
+{
+  "namespace": "avro.mqt.streams",
+  "type": "record",
+  "name": "PersoanaAvro",
+  "fields": [
+    {
+      "name": "nume",
+      "type": "string"
+    },
+    {
+      "name": "prenume",
+      "type": "string"
+    },
+    {
+      "name": "varsta",
+      "type": "int"
+    },
+    {
+      "name": "adresa",
+      "type": "string"
+    }
+  ]
+}
