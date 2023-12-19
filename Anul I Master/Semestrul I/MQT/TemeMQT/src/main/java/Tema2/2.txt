@@ -1,2 +1,0 @@
-2. Creare Consumer Kafka din consola (terminal).
-/usr/bin/kafka-console-consumer --bootstrap-server kafka:9092 --topic topicTest --from-beginning
