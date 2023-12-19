@@ -1,0 +1,29 @@
+﻿[
+  {
+    "name": "C",
+    "address": "Timisoara",
+    "weight": 80,
+    "tall": 171,
+    "phone": "0751511139",
+    "email": "ralucacigmaian@yahoo.com",
+    "advices": "All good!"
+  },
+  {
+    "name": "Cigmaian Madalina",
+    "address": "Simeria",
+    "weight": 70,
+    "tall": 174,
+    "phone": "0751511139",
+    "email": "ralucacigmaian@yahoo.com",
+    "advices": "All bad!"
+  },
+  {
+    "name": "Cigmaian Raluca",
+    "address": "Romania",
+    "weight": 60,
+    "tall": 170,
+    "phone": "0751511139",
+    "email": "ralucacigmaian@yahoo.com",
+    "advices": "Nothing is ok!"
+  }
+]
