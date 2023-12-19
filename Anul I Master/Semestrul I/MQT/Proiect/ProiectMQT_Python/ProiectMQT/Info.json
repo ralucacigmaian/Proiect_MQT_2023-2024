@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Python Event",
+    "address": "Timisoara",
+    "weight": 80,
+    "tall": 171,
+    "phone": "0751511139",
+    "email": "ralucacigmaian@yahoo.com",
+    "advices": "All good!"
+  },
+  {
+    "name": "Python Event2",
+    "address": "Simeria",
+    "weight": 70,
+    "tall": 174,
+    "phone": "0751511139",
+    "email": "ralucacigmaian@yahoo.com",
+    "advices": "All bad!"
+  },
+  {
+    "name": "Cigmaian oooo",
+    "address": "Romania",
+    "weight": 60,
+    "tall": 170,
+    "phone": "0751511139",
+    "email": "ralucacigmaian@yahoo.com",
+    "advices": "Nothing is ok!"
+  }
+]

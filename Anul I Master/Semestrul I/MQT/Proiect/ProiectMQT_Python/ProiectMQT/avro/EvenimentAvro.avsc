@@ -1,0 +1,35 @@
+{
+  "namespace": "avro",
+  "type": "record",
+  "name": "EvenimentAvro",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "address",
+      "type": "string"
+    },
+    {
+      "name": "weight",
+      "type": "int"
+    },
+    {
+      "name": "tall",
+      "type": "int"
+    },
+    {
+      "name": "phone",
+      "type": "string"
+    },
+    {
+      "name": "email",
+      "type": "string"
+    },
+    {
+      "name": "advices",
+      "type": "string"
+    }
+  ]
+}
